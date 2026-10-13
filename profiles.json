@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "Rifle-Foot",
+    "name": "Rifle Foot Platoon",
+    "jump": false,
+    "damage": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "ev": 300,
+    "ai": false,
+    "medium": false
+  },
+  {
+    "slug": "Machine-Gun-Foot",
+    "name": "Machine Gun Foot Platoon",
+    "jump": false,
+    "damage": [
+      3,
+      2,
+      2,
+      1
+    ],
+    "ev": 350,
+    "ai": true,
+    "medium": false
+  },
+  {
+    "slug": "Laser-Foot",
+    "name": "Laser Foot Platoon",
+    "jump": false,
+    "damage": [
+      3,
+      3,
+      2,
+      1
+    ],
+    "ev": 400,
+    "ai": false,
+    "medium": true
+  },
+  {
+    "slug": "SRM-Foot",
+    "name": "SRM Foot Platoon",
+    "jump": false,
+    "damage": [
+      "2; 2",
+      "2; 1",
+      2,
+      1
+    ],
+    "ev": 450,
+    "ai": false,
+    "medium": false
+  },
+  {
+    "slug": "Rifle-Jump",
+    "name": "Rifle Jump Platoon",
+    "jump": true,
+    "damage": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "ev": 400,
+    "ai": false,
+    "medium": false
+  },
+  {
+    "slug": "SRM-Jump",
+    "name": "SRM Jump Platoon",
+    "jump": true,
+    "damage": [
+      "2; 2",
+      "2; 1",
+      2,
+      1
+    ],
+    "ev": 600,
+    "ai": false,
+    "medium": false
+  }
+]
